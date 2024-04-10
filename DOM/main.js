@@ -10,7 +10,7 @@ llenarSeccion1();
 llenarSeccion2();
 llenarSeccion3();
 
-// Opcional: Aplicar estilos CSS desde JavaScript
+
 const aplicarEstilos = () => {
     const style = document.createElement('style');
     style.textContent = `
