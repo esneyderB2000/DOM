@@ -1,11 +1,9 @@
 // Importar funciones de llenado de secciones
-import { llenarSeccion0 } from './seccion0.js';
 import { llenarSeccion1 } from './seccion1.js';
 import { llenarSeccion2 } from './seccion2.js';
 import { llenarSeccion3 } from './seccion3.js';
 
 // Ejecutar funciones de llenado de secciones
-llenarSeccion0();
 llenarSeccion1();
 llenarSeccion2();
 llenarSeccion3();
