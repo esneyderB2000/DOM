@@ -3,9 +3,9 @@ const llenarSeccion3 = () => {
     seccion3.innerHTML = `
         <h2>Galería de Pantalones</h2>
         <div class="gallery">
-            <img src="/Imagenes/526943-800-auto.webp" alt="Imagen 1">
-            <img src="/Imagenes/66724708_1.avif" alt="Imagen 2">
-            <img src="/Imagenes/816754-800-auto.webp" alt="Imagen 3">
+            <img src="/DOM/Imagenes/526943-800-auto.webp" alt="Imagen 1">
+            <img src="/DOM/Imagenes/66724708_1.avif" alt="Imagen 2">
+            <img src="/DOM/Imagenes/816754-800-auto.webp" alt="Imagen 3">
         </div>
     `;
 };
